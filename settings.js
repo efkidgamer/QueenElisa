@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QUwYVR2F0TNVnc5FXYwAXOE1kU2dVT5llV5ITWu9maaN0Rq1UMxM0N5UjZjMkaZF0d0ZVRpwd=328749999562',
+  SESSION_ID: 'QUEENELISA;;;==ANlNkekZkdthmViFVRYd2b5wmW2ZXZ5RWaUpVMZVHSMZjNCNzSJlkT0sWTjEUUJNEaVNmWpwd=328749999562',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,20 +17,20 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-S U B Z E R O - M D`,
+p r i m e - M D`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: 'mongodb+srv://darrell:mucheri@cluster0.mwu1ina.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
   PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝚂𝚄𝙱𝚉𝙴𝚁𝙾-𝙼𝙳',
+  BOT_NAME: 'PRIME-𝙼𝙳',
   OWNER_NAME: '𝙼𝚁 𝙵𝚁𝙰𝙽𝙺',
-  OWNER_NUMBER: '263719647303',
-  SUDO: '263719647303',
+  OWNER_NUMBER: '265993702468',
+  SUDO: '265993702468',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© 𝙼𝙰𝙳𝙴 4 𝚈𝙾𝚄 𝙱𝚈 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙰𝙸❤️\n   ߷ +263719647303 ߷',
+  CAPTION: '© 𝙼𝙰𝙳𝙴 4 𝚈𝙾𝚄 𝙱𝚈 Franks❤️\n   ߷ +265993702468 ߷',
   STICKER_AUTHOR: '𝙼𝚁 𝙵𝚁𝙰𝙽𝙺',
   STICKER_PACK: '𝙵𝙸𝚇𝙸𝚃 𝙱𝚈 =>',
   REMOVE_BG_APIKEY: '',
@@ -70,7 +70,7 @@ S U B Z E R O - M D`,
       '❌ MR FRANK has activated auto inbox blocking. So you will be auto blocked after 8 seconds starting now 8..7..😶‍🌫.\n\n *Meanwhile Join* \n\n https://chat.whatsapp.com/D30Er6xlMDf0IFjLkUtULW'
   },
   BOT_RULES:
-    "*⚖️ 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ PRIME 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
