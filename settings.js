@@ -19,7 +19,7 @@ module.exports = {
 
 p r i m e - M D`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://Frankkaumba:O2xcD2HqTI5bKCVF@frankdatabase.51rpd.mongodb.net/?retryWrites=true&w=majority&appName=Frankdatabase', 
+  MONGODB_URL: '        uri: "mongodb+srv://mateochatbot:xdtL2bYQ9eV3CeXM@gerald.r2hjy.mongodb.net/nexusbot?retryWrites=true&w=majority",', 
   PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
